@@ -63,5 +63,5 @@ $id = mysqli_connect("localhost", "root", "", "chat");
 
 ## Auteur
 
-[konan kouakou]
+konan Othniel kouakou
 
